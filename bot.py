@@ -1,9 +1,8 @@
 # Infinity Bots
 
 import os
+import logging
 import pyrogram
-from pyrogram import Client
-
 from config import Config  
 
 
